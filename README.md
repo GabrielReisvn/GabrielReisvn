@@ -1,6 +1,6 @@
-# 👋 Olá! Eu sou [Seu Nome Aqui]                                                                                                                                                         # 👋 Olá! Eu sou [Seu Nome Aqui]
+# 👋 Olá! Eu sou o Gabriel Viana                                                                                                                                                         
 
-Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitHub**, **programação** e **criação de projetos web e mobile**. Tenho interesse especial em [escreva seu interesse aqui: ex. Front-End, Back-End, Mobile, Banco de Dados, UX/UI, etc.].
+Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitHub**, **programação** e **criação de projetos web e mobile**. Tenho interesse especial em Front-End, Back-End, Mobile, Banco de Dados, etc
 
 ---
 
@@ -42,16 +42,16 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 
 ## 💡 Sobre Mim
 
-- 🎓 Atualmente estudo no **[Nome da sua escola]**
-- 💻 Estou aprendendo **[tecnologias que está aprendendo]**
-- 🎯 Meu objetivo é **[coloque seu objetivo, exemplo: ser desenvolvedor Full Stack]**
-- 📚 Gosto de aprender sobre **[áreas de interesse]**
-- ✝ [Se quiser, coloque uma frase ou versículo que te inspire]
+- 🎓 Atualmente estudo no **SESI SENAI**
+- 💻 Estou aprendendo **CSS, Java e MySQL**
+- 🎯 Meu objetivo é ** ser desenvolvedor Full Stack**
+- 📚 Gosto de aprender sobre **criação de projetos web e mobile**
+- ✝ é um clamor de súplica a Deus por ajuda e livramento de inimigos, pedindo que as ações más dos ímpios sejam retribuídas a eles.
 
 ---
 
 ## 📫 Como me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/seuusuario)  
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/seuusuario)  
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/reisvng)  
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/seuusuario)
