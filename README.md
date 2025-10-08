@@ -32,8 +32,8 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 
 | Projeto               | Preview Online                        | Tecnologias Usadas        |
 |-----------------------|-------------------------------------|--------------------------|
-| **Nome do Projeto 1** | [🔗 Ver online](https://gabrielreisvn.github.io/Siteeu/) | HTML / CSS           |
-| **Nome do Projeto 2** | [🔗 Ver online](https://seu-link.com) | Node.js / Express / MySQL|
+| **Site** | [🔗 Ver online](https://gabrielreisvn.github.io/Siteeu/) | HTML / CSS           |
+| **Projeto 2** | [🔗 Ver online](https://seu-link.com) | HTML|
 | **Nome do Projeto 3** | [🔗 Ver online](https://seu-link.com) | Flutter / Dart           |
 
 
