@@ -44,7 +44,7 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 
 - 🎓 Atualmente estudo no **SESI SENAI**
 - 💻 Estou aprendendo **CSS, Java e MySQL**
-- 🎯 Meu objetivo é ** ser desenvolvedor Full Stack**
+- 🎯 Meu objetivo é **ser desenvolvedor Full Stack**
 - 📚 Gosto de aprender sobre **criação de projetos web e mobile**
 - ✝ é um clamor de súplica a Deus por ajuda e livramento de inimigos, pedindo que as ações más dos ímpios sejam retribuídas a eles.
 
