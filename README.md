@@ -36,7 +36,7 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 | **Nome do Projeto 2** | [🔗 Ver online](https://seu-link.com) | Node.js / Express / MySQL|
 | **Nome do Projeto 3** | [🔗 Ver online](https://seu-link.com) | Flutter / Dart           |
 
-> 💡 Dica: Quando você publicar um projeto no GitHub Pages, coloque o link aqui!
+
 
 ---
 
