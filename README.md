@@ -46,8 +46,7 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 - 💻 Estou aprendendo **CSS, Java e MySQL**
 - 🎯 Meu objetivo é **ser desenvolvedor Full Stack**
 - 📚 Gosto de aprender sobre **criação de projetos web e mobile**
-- ✝ é um clamor de súplica a Deus por ajuda e livramento de inimigos, pedindo que as ações más dos ímpios sejam retribuídas a eles.
-
+- ✝ Salmo 28:2 Ouve a voz das minhas súplicas, quando a ti clamar por socorro, quando erguer as mãos para o teu santuário.
 ---
 
 ## 📫 Como me encontrar
